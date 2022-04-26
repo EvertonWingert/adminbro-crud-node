@@ -13,6 +13,6 @@
    ```
 3. Go to 
  
- ```sh
- http://localhost:5500/admin
-```
+   ```sh
+   http://localhost:5500/admin
+  ```
